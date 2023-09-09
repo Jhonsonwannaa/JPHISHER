@@ -7,6 +7,6 @@ Comprenez aussi que je suis nul en décor 🤣🤣
 
 ✓ python3 module_install
 
-✓ python3 jonphisher.py
+✓ python3 Jonphish.py
 
 ✓ python3 server_reception.py
