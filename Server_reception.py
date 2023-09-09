@@ -10,8 +10,7 @@ try :
     	post_data = request.rfile.read(content_length)
     	
     	var=post_data.decode('utf-8')
-    	retrace=(var.replace('&',' ')).split()
-    	console.print('[bod green]'+retrace[6]+'&'+retrace[7]+'\n\n\n')
+    	console.print(f'[bod green]{var}+'\n\n\n')
     
     	
     	
