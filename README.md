@@ -5,8 +5,8 @@ Comprenez aussi que je suis nul en décor 🤣🤣
 
 ✓ git clone https://github.com/Jhonsonwannaa/jonphish
 
-✓ python3 module_install
+✓ python3 module_install.py
 
 ✓ python3 Jonphish.py
 
-✓ python3 server_reception.py
+✓ python3 Server_reception.py
