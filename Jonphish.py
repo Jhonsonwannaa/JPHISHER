@@ -1,4 +1,4 @@
-ilimport requests
+import requests
 from bs4 import BeautifulSoup
 import urllib3
 import os 
@@ -26,7 +26,7 @@ try :
 		  file =open('index.html','w')
 		  file.write(change)
 		  def php_server():
-		  	os.system('apt install php')
+		  	os.
 		  	os.system('php -S 0.0.0.0:3000')
 		  php_server()	
 except :
