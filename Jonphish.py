@@ -3,6 +3,8 @@ from bs4 import BeautifulSoup
 import urllib3
 import os 
 from rich.console import Console
+import os
+
 
 console = Console()
 
@@ -14,7 +16,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 site=['https://m.facebook.com/login/?locale=fr_FR']
 decor = '[bold yellow]'
-console.print(f'\n\n{decor}'+'[0]'+str('FACEBOOK')
+console.print(f'\n\n{decor}'+'[0]'+str('FACEBOOK')+'\n\n')
 
 try :
 	
