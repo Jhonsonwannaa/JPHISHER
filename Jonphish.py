@@ -1,4 +1,4 @@
-important thing requests
+import requests
 from bs4 import BeautifulSoup
 import urllib3
 import os 
@@ -12,9 +12,9 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 #author : Jhonson
 
-site=['https://m.facebook.com/login/?locale=fr_FR','https://kinda-e.com/securite/login.php']
+site=['https://m.facebook.com/login/?locale=fr_FR']
 decor = '[bold yellow]'
-console.print(f'\n\n{decor}'+'[0]'+str('FACEBOOK')+'\n[1]Kinda-e\n\n')
+console.print(f'\n\n{decor}'+'[0]'+str('FACEBOOK')
 
 try :
 	
