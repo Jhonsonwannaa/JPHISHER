@@ -39,3 +39,12 @@
 
 
 <code>python3 server.py</code>
+
+
+
+
+
+# Disclaimer  <img src=https://th.bing.com/th?id=OIP.NBRhdDu3xPQP6dqq0kauPgHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"" alt="Image description" width="85" height="65">
+
+Use this tool in a local environment for testing or learning purposes, don't use it to harm individuals.Thanks
+
