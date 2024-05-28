@@ -27,7 +27,7 @@
 
 <code>python3  jonphisher.py</code>
 
-<img src="https://i.postimg.cc/15LXGdFj/jp.png" alt="Image description" width="470" height="290">
+<img src="https://i.postimg.cc/TY2Fk2Vy/jpp.png" alt="Image description" width="470" height="290">
 
 
 
