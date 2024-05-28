@@ -25,7 +25,7 @@ try :
     if __name__ == '__main__':
     	server_address = ('0.0.0.0', 8000)
     	httpd = HTTPServer(server_address, BaseHTTPRequestHandler)
-    	console.print('[bold green]Le serveur s\'est demarré sur le port 8000.\n\n')
+    	console.print('[bold green]The receiving server to be started ... on port 8000\n\n')
     	httpd.RequestHandlerClass.do_POST = do_post
     	
     	httpd.serve_forever()
