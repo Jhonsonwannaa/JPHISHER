@@ -1,6 +1,6 @@
 # Run
 
-<img src="https://i.postimg.cc/15LXGdFj/jp.png" alt="Image description" width="470" height="290">
+
 
 
 # Install  <img src="https://th.bing.com/th/id/OIP.bzv7RAtwpbL8hhK_zHjceAAAAA?w=136&h=180&c=7&r=0&o=5&pid=1.7" alt="Image description" width="65" height="55">
@@ -23,11 +23,20 @@
 # Usage <img src="https://th.bing.com/th/id/OIP.s41Z0tfRcuQ-ep4sdtRXQwHaH_?w=170&h=183&c=7&r=0&o=5&pid=1.7" alt="Image description" width="85" height="65">
 
 
+
+
 <code>python3  jonphisher.py</code>
+
+<img src="https://i.postimg.cc/15LXGdFj/jp.png" alt="Image description" width="470" height="290">
 
 
 
 <code>python3 server.py</code>
+
+<img src="https://i.postimg.cc/2jWSzwMd/server.png" alt="Image description" width="470" height="290">
+
+
+
 
 
 
