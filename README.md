@@ -11,7 +11,7 @@
 
 
 
-<code>git clone https://github.com/Jhonsonwannaa/jonphish.git</code>
+<code>git clone https://github.com/Jhonsonwannaa/jonphish</code>
 
 
 <code>pip install -requirements.txt</code>
