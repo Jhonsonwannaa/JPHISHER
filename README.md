@@ -14,7 +14,7 @@
 <code>git clone https://github.com/Jhonsonwannaa/jonphish</code>
 
 
-<code>pip install -requirements.txt</code>
+<code>pip install -r requirements.txt</code>
 
 
 
