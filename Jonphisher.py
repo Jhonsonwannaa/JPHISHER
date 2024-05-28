@@ -78,7 +78,7 @@ def server_exploit(url, port, lien):
 
         site =lien
 
-        print(Fore.GREEN + Style.BRIGHT +f'\n Lien du serveur : {site}\n'+ Style.RESET_ALL)
+        print(Fore.GREEN + Style.BRIGHT +f'\n Link phishing domain : {site}\n'+ Style.RESET_ALL)
   
 
         os.system(f'python -m http.server {port}')  
