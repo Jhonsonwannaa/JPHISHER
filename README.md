@@ -13,6 +13,8 @@
 
 <code>git clone https://github.com/Jhonsonwannaa/JPHISHER</code>
 
+<code>cd JPHISHER</code>
+
 
 <code>pip install -r requirements.txt</code>
 
