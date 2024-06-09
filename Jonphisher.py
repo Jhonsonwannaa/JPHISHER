@@ -13,9 +13,14 @@ def arparse():
      text = "JPHISHER"
      font = "slant"
      taille=10000
-     banner = str(pyfiglet.figlet_format(text, font,width=taille))
-
-     print(Fore.YELLOW + Style.BRIGHT +f'MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM\n\n              {banner}\n                  Author:Jhonson\n                  Email:wannaajhonson@gmail.com\n\n                  PHISHING-TOOL\nMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM\n' + Style.RESET_ALL)
+     banner = '''     ______  __  ___________ __  ____________ 
+      / / __ \/ / / /  _/ ___// / / / ____/ __ \
+ __  / / /_/ / /_/ // / \__ \/ /_/ / __/ / /_/ /
+/ /_/ / ____/ __  // / ___/ / __  / /___/ _, _/ 
+\____/_/   /_/ /_/___//____/_/ /_/_____/_/ |_|
+                         Author: Jhonson                                         
+     '''
+     print(Fore.YELLOW + Style.BRIGHT  +'+  Style.RESET_ALL)
 
 
 
